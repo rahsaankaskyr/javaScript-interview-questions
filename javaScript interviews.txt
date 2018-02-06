@@ -1,0 +1,8 @@
+
+
+
+Tricky JS interview questions
+
+Event delegation - js event listeners fire not only on a single DOM element but on all its descendants
+
+Event bubbling - inverse of this. Also known as propagation, events on an element will "bubble up" and also fire on all parents
